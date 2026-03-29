@@ -1,16 +1,56 @@
-## Hi there 👋
+# 🌟 Hey there! I'm Priyal Maheshwari 👋
 
-<!--
-**Pmaheshwari-20/Pmaheshwari-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **1st Year Student | BTECH CSE(CYBER SECURITY AND DIGITAL FORENSICS)**
 
-Here are some ideas to get you started:
+💡 Curious mind exploring the world of technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+✨ I’m a passionate beginner who loves learning how technology works behind the scenes.
+
+🔍 Currently exploring concepts in **digital electronics, coding, and problem-solving**.
+
+🌱 Always eager to learn something new every day!
+
+---
+
+## 🎯 My Goal
+
+I hope to build a strong foundation in programming and electronics, and eventually create smart and meaningful tech projects that solve real-world problems.
+
+---
+
+## 🛠️ Skills (Learning Phase)
+
+* 💻 Basic Programming
+* 🔌 Digital Electronics
+* 🧠 Logical Thinking
+
+---
+
+## 📚 Currently Learning
+
+* Basics of Coding
+* Logic Gates & Circuit Design
+* Digital Literacy & Safe Internet Practices
+
+---
+
+## ✨ Fun Fact
+
+I enjoy turning ideas into small creative projects and improving step by step 🚀
+
+I enjoy learning new creative aspects.
+
+---
+
+## 📫 Connect With Me
+
+📧 primaheshwari20@gmail.com
+
+---
+
+⭐ *“Learning never stops, especially in the world of technology.”*
+
